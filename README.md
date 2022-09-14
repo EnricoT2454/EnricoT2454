@@ -1,0 +1,4 @@
+- 👋 Oi sou o  Enrico
+- 👀 Tenho interesse na area tecnologica embora tenha pouco conhecimento.
+- 🌱 Estou aprendendo aos poucos a programar e tenho intenção de ser um back-end.
+- 💞️ Estou a procura de conhecimento e quando o tiver ajudar a comunidade assim como ela me ajuda.
